@@ -3940,6 +3940,7 @@ ul {
 }
 .video-area .video-thumb-wrap img {
   height: 100%;
+  object-fit: cover;
 }
 .video-area .video-thumb-wrap .video-play-btn {
   position: absolute;
